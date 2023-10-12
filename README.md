@@ -15,7 +15,7 @@
   
 </div><br/>
 
-Iniciante na área de tecnologia, estudando muito pra achar meu caminho!
+Iniciante na área de tecnologia, estudando muito pra achar meu caminho <3
 
 
   
