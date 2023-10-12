@@ -13,7 +13,9 @@
   <img align="center" alt="ruby" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img align="center" alt="ruby" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   
-</div>
+</div><br/>
+
+Iniciante na área de tecnologia, estudando muito pra achar meu caminho!
 
 
   
