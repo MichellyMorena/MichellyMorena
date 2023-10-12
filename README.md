@@ -1,4 +1,4 @@
-## oii, eu sou a Michelly
+## Olá! Eu sou a Michelly
 
 - 🔭 Estudo back-end
 - 🌱 Estudando Ruby
